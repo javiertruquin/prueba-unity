@@ -17,7 +17,7 @@ public class Clase4 : MonoBehaviour
     {
     }
     void Salto(){
-        Debug.Log("implementando cosas");
+        Debug.Log("implementando cosas PRUEBA");
     }
     
 
